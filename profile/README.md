@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./draconis-logo-colorido.jpg"/>
+  <img src="draconis-logo-colorido.jpg"/>
 </div>
 
 ---
