@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="draconis-logo-colorido-comprido.jpg"/>
+  <img width="100%" src="draconis-logo-comprido.jpeg"/>
 </div>
 
 ---
