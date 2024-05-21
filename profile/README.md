@@ -15,4 +15,4 @@ Setor responsável pelo dimensionamento com o objetivo de obter componentes da a
 
 ### Aerodinâmica
 
-Setor responsável pela análise do fluxo de ar ao redor utilizando ferramentas de CFD. Deste modo, é possível identificar áreas de turbulência e arrasto, dentre outros parâmetros, possibilitando ajustes de design para melhorar a eficiência aerodinâmica do drone em diferentes situações de voo. 
+Setor responsável pela análise do fluxo de ar utilizando ferramentas de CFD. Deste modo, é possível identificar áreas de turbulência e arrasto, dentre outros parâmetros, possibilitando ajustes de design para melhorar a eficiência aerodinâmica do drone em diferentes situações de voo. 
