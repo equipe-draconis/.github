@@ -9,4 +9,4 @@ Equipe de competição de Drones da Universidade Federal de Santa Catarina sedia
 ## Eletrônica
 
 ## Mecânica
-###Estruturas 
+### Estruturas 
