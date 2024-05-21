@@ -10,3 +10,5 @@ Equipe de competição de Drones da Universidade Federal de Santa Catarina sedia
 
 ## Mecânica
 ### Estruturas 
+
+Setor responsável pelo dimensionamento com o objetivo de obter componentes da aeronave com alta resistência mecânica e baixa massa, sendo estes validados por meio de ensaios mecânicos.
