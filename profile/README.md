@@ -9,7 +9,7 @@ Equipe de competição de Drones da Universidade Federal de Santa Catarina sedia
 ## Eletrônica
 Este macro setor é responsável pela produção de toda a parte eletrônica de nossas aeronaves, abrangendo os setores de Hardware, Software e Controle.
 
-###Hardware
+### Hardware
 
 Setor responsável pela análise, implementação e otimização de componentes eletrônicos para melhor funcionamento do drone. 
 
