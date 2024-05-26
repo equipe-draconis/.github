@@ -13,6 +13,9 @@ Este macro setor é responsável pela produção de toda a parte eletrônica de 
 
 Setor responsável pela análise, implementação e otimização de componentes eletrônicos para melhor funcionamento do drone. 
 
+### Software
+
+Setor responsável por tudo que envolva códigos, desde a implementação do sistema de controle até as inteligências de direção e identificação visual.
 
 ## Mecânica
 ### Estruturas 
