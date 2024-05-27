@@ -17,6 +17,10 @@ Setor responsável pela análise, implementação e otimização de componentes 
 
 Setor responsável por tudo que envolva códigos, desde a implementação do sistema de controle até as inteligências de direção e identificação visual.
 
+### Controle
+
+Setor responsável pela estudo do modelo dinâmico do drone, e o desenvolvimento do sistema de controle do mesmo.
+
 ## Mecânica
 ### Estruturas 
 
