@@ -34,6 +34,9 @@ Setor responsável pela análise do fluxo de ar utilizando ferramentas de CFD. D
 
 Setor responsável por garantir a segurança e estabilidade da aeronave em condições de vôo a partir da análise estrutural, de distruibuição de peso e aerodinâmica, além de considerar condições ambientais adversas durante a operação.
 
+### Desempenho
+
+Setor responsável pelo estudo da capacidade da aeronave, o que inclui a pesquisa sobre os diferentes tipos de motores, hélices e demais componentes. Além disso, o setor visa garantir que o drone seja capaz de alcançar certos objetivos, os quais envolvem tempo de decolagem, eficiência, velocidade e capacidade de carga útil transportável.
 
 ### Cargas
 
